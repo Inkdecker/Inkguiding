@@ -4,6 +4,7 @@ dist/
 
 # Ignore packaged executables
 *.exe
+*.bat
 
 # Ignore PyInstaller spec files (optional if you want to regenerate them)
 *.spec
