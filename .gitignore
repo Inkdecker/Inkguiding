@@ -1,0 +1,23 @@
+# Ignore build and distribution folders
+build/
+dist/
+
+# Ignore packaged executables
+*.exe
+
+# Ignore PyInstaller spec files (optional if you want to regenerate them)
+*.spec
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore virtual environment if you make one
+venv/
+.env/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+desktop.ini
