@@ -1,1 +1,0 @@
-pyinstaller Inkguiding.spec --clean
