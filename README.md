@@ -18,5 +18,5 @@ It’s useful for digital artists, designers, and anyone who wants precise align
 
 ---
 
-## ⚙️ Download
-
+## 📥 Download
+You can grab the latest Windows release here:  [Download Inkguiding.exe](https://github.com/Inkdecker/Inkguiding/releases/latest)
